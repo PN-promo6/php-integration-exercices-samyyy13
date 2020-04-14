@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
-<link rel="stylesheet" href="style.css">
 <div class="container">
   <div class="row">
     <div class="col-lg-5 col-md-6 col-sm-8 mx-auto">
@@ -59,8 +49,3 @@
     </div>
   </div>
 </div>
-<script src="script.js">
-
-</script>
-</body>
-</html>
